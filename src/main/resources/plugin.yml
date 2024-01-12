@@ -2,3 +2,7 @@ name: Salmon
 version: '${version}'
 main: org.ex1de.salmon.Salmon
 api-version: '1.20'
+commands:
+  fishing_stats:
+    description: Get player fishing statistics
+    usage: /<command> [playerName] [get]
