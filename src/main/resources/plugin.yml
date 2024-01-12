@@ -1,0 +1,4 @@
+name: Salmon
+version: '${version}'
+main: org.ex1de.salmon.Salmon
+api-version: '1.20'
